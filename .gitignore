@@ -1,3 +1,4 @@
+.vs
 *.pyc
 *~
 __pycache__/
